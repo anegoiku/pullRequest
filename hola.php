@@ -1,4 +1,7 @@
 <?php
 echo "holaa";
-echo "bueeeeeeeeeeeeeeeeeeeeeeeenas";
+
+echo "buenas";
 echo "quetal?";
+echo "bieen y tuu?";
+echo "aki kon los xhabaleeh";
